@@ -1,7 +1,7 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 """
-# project: Insight-Churn
+# project: Who-Unfollowed-You
 # date: 25/02/2014
 # author: Deniz Ustebay
 # description: Compare two lists of Twitter IDs, print out user names that are in the first file 

@@ -1,7 +1,7 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 """
-# project: Insight-Churn
+# project: Who-Unfollowed-You
 # date: 25/02/2014
 # author: Deniz Ustebay
 # description: Get a list of IDs for followers of a public Twitter account 
