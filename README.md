@@ -19,9 +19,7 @@ Of course, if you input the new file first, then you will get the list of new fo
 Or compare two accounts by:
 
 ```python find_followers.py userName1 > followers_userName1.txt
-
 python find_followers.py userName2 > followers_userName2.txt
-
 python whoUnfollowed.py followers_userName1 followers_userName2```
 
 Note that I removed my Twitter developer credentials from the files, you need to enter yours to make this run. Enjoy!
